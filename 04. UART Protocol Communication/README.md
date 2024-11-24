@@ -34,7 +34,6 @@ The main features of UART Protocol are:
 * Point-to-point communication: Best for one-to-one communication, which is sufficient in many applications."
 
 ## Uart Communication Diagram or Frame Format?
-" frame format
 
 | Start   |      Data (7-9 bits)      | Parity    | Stop  |
 |    0    |   D0 D1 ... D7 (or 9)     |  (P)      | 1/2   |
