@@ -1,0 +1,11 @@
+../Core/Src/main.c:77:6:PCA9685_SetBit	2
+../Core/Src/main.c:89:6:PCA9685_SetPWMFrequency	3
+../Core/Src/main.c:106:6:PCA9685_Init	1
+../Core/Src/main.c:111:6:PCA9685_SetPWM	1
+../Core/Src/main.c:123:6:PCA9685_SetServoAngle	1
+../Core/Src/main.c:137:5:main	3
+../Core/Src/main.c:240:6:SystemClock_Config	3
+../Core/Src/main.c:285:13:MX_I2C1_Init	2
+../Core/Src/main.c:317:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:348:13:MX_GPIO_Init	1
+../Core/Src/main.c:387:6:Error_Handler	1
